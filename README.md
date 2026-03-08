@@ -30,29 +30,12 @@ O objetivo é desenvolver habilidades em manipulação, limpeza e análise de da
 
 ## 📁 Estrutura do Repositório
 
-│
-├── README.md
-│
-├── datasets
-│   ├── vendas.csv
-│   ├── clientes.csv
-│
-├── 01-fundamentos
-│   ├── formulas-basicas.xlsx
-│   ├── funcoes-logicas.xlsx
-│
-├── 02-manipulacao-de-dados
-│   ├── limpeza-de-dados.xlsx
-│   ├── tratamento-de-dados.xlsx
-│
-├── 03-analise-de-dados
-│   ├── analise-vendas.xlsx
-│
-├── 04-tabelas-dinamicas
-│   ├── tabelas-dinamicas-vendas.xlsx
-│
-└── 05-dashboards
-    ├── dashboard-vendas.xlsx
+- datasets
+- 01-fundamentos
+- 02-manipulacao-de-dados
+- 03-analise-de-dados
+- 04-tabelas-dinamicas
+- 05-dashboards
 
 ---
 
