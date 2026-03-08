@@ -29,3 +29,38 @@ O objetivo é desenvolver habilidades em manipulação, limpeza e análise de da
 ---
 
 ## 📁 Estrutura do Repositório
+
+│
+├── datasets
+│
+├── 01-fundamentos
+│
+├── 02-manipulacao-de-dados
+│
+├── 03-analise-de-dados
+│
+├── 04-tabelas-dinamicas
+│
+└── 05-dashboards
+
+
+---
+
+## 🛠 Ferramentas Utilizadas
+
+- Microsoft Excel
+
+---
+
+## 🚀 Próximos passos
+
+- Power Query
+- Automação com Excel
+- Integração com Power BI
+
+---
+
+## 📌 Autor
+
+Gustavo Raphael  
+Estudante de Análise e Desenvolvimento de Sistemas.
